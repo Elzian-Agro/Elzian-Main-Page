@@ -29,3 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Added Automation to publish the site
 
 https://elzian-pvt-ltd.github.io/Elzian-Main-page/
+https://elzian.com
