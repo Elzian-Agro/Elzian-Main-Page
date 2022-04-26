@@ -813,7 +813,7 @@ header.smaller .Navigation li {
   margin: 0px;
 }
 .Services_sec .Serviceside li {
-  float: left;
+
   padding: 0px;
   margin: 0px 40px 0px 0px;
   text-align: center;
@@ -824,6 +824,7 @@ header.smaller .Navigation li {
 }
 .Services_sec .Serviceside li.Development {
   padding: 44px 0px 161px 0px;
+  display:inline-block;
   background: url(../img/Development-bg.jpg) no-repeat;
   box-shadow: 1px 4px 7px -4px rgba(0, 0, 0, 0.75);
 }
